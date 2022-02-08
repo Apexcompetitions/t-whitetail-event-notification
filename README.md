@@ -1,1 +1,1 @@
-# bb-spring-turkey-event-notification
+# t-whitetail-event-notification
